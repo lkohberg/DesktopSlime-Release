@@ -1,4 +1,4 @@
-![Desktop Slime](/C:\DesktopSlime-Releases/images/hero.png)
+![Desktop Slime](/C:\DesktopSlime-Release/images/hero.png)
 
 # Desktop Slime
 
