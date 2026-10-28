@@ -1,4 +1,4 @@
-![Desktop Slime](/C:\DesktopSlime-Release/images/hero.png)
+![Desktop Slime](images/hero.png)
 
 # Desktop Slime
 
@@ -25,7 +25,7 @@ Kein Menü, keine Pflichten. Das meiste macht er von selbst.
 * **Für alle:** größere Schrift, weniger Bewegung (folgt der Windows-Einstellung) und gut lesbare Farben.
 * **Sparsam:** etwa 110–125 MB Arbeitsspeicher. Steht er herum, zeichnet er nur, was sich wirklich ändert.
 
-![Outfits](/C:\DesktopSlime-Releases/images/outfits.png)
+![Outfits](images/outfits.png)
 
 ## Herunterladen
 
@@ -42,7 +42,7 @@ Unter **[Releases](../../releases/latest)** findest du bei jeder Version unter *
 3. Folge dem Installer. Administratorrechte braucht er keine. Auf der Seite **„So soll er sein“** kannst du schon Sprache, Gesprächigkeit, Autostart, Geräusche und mehr festlegen.
 4. Beim ersten Start steht eine Kiste in der Mitte deines Bildschirms. Gib ihm auf dem Etikett einen Namen, eine Farbe und eine Größe, dann klicke auf **Fertig**. Er hüpft heraus.
 
-![Der Installer](/C:\DesktopSlime-Releases/images/installer.png)
+![Der Installer](images/installer.png)
 
 ## Bedienung
 
